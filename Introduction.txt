@@ -1,0 +1,21 @@
+A View of Food Chains in Most Populated German Cities
+
+An overview of key players and their positions is crucially important for any entrepreneur interested starting any business. Food is no exception.
+
+In this report, we will be gathering data from the following top 10 most populated German cities according to Wikipedia (https://en.wikipedia.org/wiki/List_of_cities_in_Germany_by_population);
+-	Berlin
+-	Hamburg
+-	Munich
+-	Cologne
+-	Frankfurt (am Main)
+-	Stuttgart
+-	Düsseldorf
+-	Dortmund
+-	Essen
+-	Leipzig
+
+For the following restaurants and food chains.
+-	McDonalds: Most visited fast-food chain in Germany
+-	Starbucks: Most visited coffee shop in Germany
+-	Vapiano: A popular middle-high class food chain
+-	Extrablatt: An alternative affordable casual food-chain
