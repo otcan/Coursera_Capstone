@@ -9,7 +9,7 @@ In this report, we will be gathering data from the following top 10 most populat
 -	Cologne
 -	Frankfurt (am Main)
 -	Stuttgart
--	Düsseldorf
+-	DÃ¼sseldorf
 -	Dortmund
 -	Essen
 -	Leipzig
