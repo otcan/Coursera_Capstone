@@ -1,4 +1,4 @@
-The data will be gathered from Foursquare’s Places API. Only the main cities will be taken into consideration, and the numbers will be taken from the results coming from the API. Raw data will not be checked.
+The data will be gathered from Foursquareâ€™s Places API. Only the main cities will be taken into consideration, and the numbers will be taken from the results coming from the API. Raw data will not be checked.
 
 Data will be gathered with the following API:
 GET https://api.foursquare.com/v2/venues/search
